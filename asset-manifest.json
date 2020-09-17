@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maksimsavi/gtzp.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/maksimsavi/gtzp.git/static/js/main.46c89726.chunk.js",
+    "main.js.map": "/maksimsavi/gtzp.git/static/js/main.46c89726.chunk.js.map",
+    "runtime-main.js": "/maksimsavi/gtzp.git/static/js/runtime-main.0416a3d5.js",
+    "runtime-main.js.map": "/maksimsavi/gtzp.git/static/js/runtime-main.0416a3d5.js.map",
+    "static/js/2.ea80771e.chunk.js": "/maksimsavi/gtzp.git/static/js/2.ea80771e.chunk.js",
+    "static/js/2.ea80771e.chunk.js.map": "/maksimsavi/gtzp.git/static/js/2.ea80771e.chunk.js.map",
+    "index.html": "/maksimsavi/gtzp.git/index.html",
+    "precache-manifest.96516c9f812e36bb92d1caf3057980cb.js": "/maksimsavi/gtzp.git/precache-manifest.96516c9f812e36bb92d1caf3057980cb.js",
+    "service-worker.js": "/maksimsavi/gtzp.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/maksimsavi/gtzp.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea80771e.chunk.js.LICENSE.txt": "/maksimsavi/gtzp.git/static/js/2.ea80771e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0416a3d5.js",
+    "static/js/2.ea80771e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.46c89726.chunk.js"
+  ]
+}
