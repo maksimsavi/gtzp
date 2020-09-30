@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gtzp/static/css/main.776d30d9.chunk.css",
+    "main.js": "/gtzp/static/js/main.53c9558b.chunk.js",
+    "main.js.map": "/gtzp/static/js/main.53c9558b.chunk.js.map",
+    "runtime-main.js": "/gtzp/static/js/runtime-main.79b54aac.js",
+    "runtime-main.js.map": "/gtzp/static/js/runtime-main.79b54aac.js.map",
+    "static/js/2.bc24a3a0.chunk.js": "/gtzp/static/js/2.bc24a3a0.chunk.js",
+    "static/js/2.bc24a3a0.chunk.js.map": "/gtzp/static/js/2.bc24a3a0.chunk.js.map",
+    "index.html": "/gtzp/index.html",
+    "precache-manifest.dcb3ec5896454f3687a852b85bbc1314.js": "/gtzp/precache-manifest.dcb3ec5896454f3687a852b85bbc1314.js",
+    "service-worker.js": "/gtzp/service-worker.js",
+    "static/css/main.776d30d9.chunk.css.map": "/gtzp/static/css/main.776d30d9.chunk.css.map",
+    "static/js/2.bc24a3a0.chunk.js.LICENSE.txt": "/gtzp/static/js/2.bc24a3a0.chunk.js.LICENSE.txt",
+    "static/media/placeholder.png": "/gtzp/static/media/placeholder.eac4b3db.png",
+    "static/media/zeroLogo.PNG": "/gtzp/static/media/zeroLogo.9ce190a0.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b54aac.js",
+    "static/js/2.bc24a3a0.chunk.js",
+    "static/css/main.776d30d9.chunk.css",
+    "static/js/main.53c9558b.chunk.js"
+  ]
+}
