@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.776d30d9.chunk.css",
-    "main.js": "/static/js/main.e28a669f.chunk.js",
-    "main.js.map": "/static/js/main.e28a669f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba1ba7b9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba1ba7b9.js.map",
-    "static/js/2.bc24a3a0.chunk.js": "/static/js/2.bc24a3a0.chunk.js",
-    "static/js/2.bc24a3a0.chunk.js.map": "/static/js/2.bc24a3a0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b072beb693892185345aacba7ea2067e.js": "/precache-manifest.b072beb693892185345aacba7ea2067e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.776d30d9.chunk.css.map": "/static/css/main.776d30d9.chunk.css.map",
-    "static/js/2.bc24a3a0.chunk.js.LICENSE.txt": "/static/js/2.bc24a3a0.chunk.js.LICENSE.txt",
-    "static/media/placeholder.png": "/static/media/placeholder.eac4b3db.png",
-    "static/media/zeroLogo.PNG": "/static/media/zeroLogo.9ce190a0.PNG"
+    "main.css": "/gtzp/static/css/main.776d30d9.chunk.css",
+    "main.js": "/gtzp/static/js/main.c049051a.chunk.js",
+    "main.js.map": "/gtzp/static/js/main.c049051a.chunk.js.map",
+    "runtime-main.js": "/gtzp/static/js/runtime-main.79b54aac.js",
+    "runtime-main.js.map": "/gtzp/static/js/runtime-main.79b54aac.js.map",
+    "static/js/2.bc24a3a0.chunk.js": "/gtzp/static/js/2.bc24a3a0.chunk.js",
+    "static/js/2.bc24a3a0.chunk.js.map": "/gtzp/static/js/2.bc24a3a0.chunk.js.map",
+    "index.html": "/gtzp/index.html",
+    "precache-manifest.ed188bd8b7ce4207ffbd5b90687ca6b8.js": "/gtzp/precache-manifest.ed188bd8b7ce4207ffbd5b90687ca6b8.js",
+    "service-worker.js": "/gtzp/service-worker.js",
+    "static/css/main.776d30d9.chunk.css.map": "/gtzp/static/css/main.776d30d9.chunk.css.map",
+    "static/js/2.bc24a3a0.chunk.js.LICENSE.txt": "/gtzp/static/js/2.bc24a3a0.chunk.js.LICENSE.txt",
+    "static/media/placeholder.png": "/gtzp/static/media/placeholder.eac4b3db.png",
+    "static/media/zeroLogo.PNG": "/gtzp/static/media/zeroLogo.9ce190a0.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba1ba7b9.js",
+    "static/js/runtime-main.79b54aac.js",
     "static/js/2.bc24a3a0.chunk.js",
     "static/css/main.776d30d9.chunk.css",
-    "static/js/main.e28a669f.chunk.js"
+    "static/js/main.c049051a.chunk.js"
   ]
 }
