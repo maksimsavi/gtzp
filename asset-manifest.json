@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/maksimsavi/gtzp.git/static/css/main.d8f9faba.chunk.css",
-    "main.js": "/maksimsavi/gtzp.git/static/js/main.a8d0dbe3.chunk.js",
-    "main.js.map": "/maksimsavi/gtzp.git/static/js/main.a8d0dbe3.chunk.js.map",
-    "runtime-main.js": "/maksimsavi/gtzp.git/static/js/runtime-main.0416a3d5.js",
-    "runtime-main.js.map": "/maksimsavi/gtzp.git/static/js/runtime-main.0416a3d5.js.map",
-    "static/js/2.1aff8d73.chunk.js": "/maksimsavi/gtzp.git/static/js/2.1aff8d73.chunk.js",
-    "static/js/2.1aff8d73.chunk.js.map": "/maksimsavi/gtzp.git/static/js/2.1aff8d73.chunk.js.map",
-    "index.html": "/maksimsavi/gtzp.git/index.html",
-    "precache-manifest.caca92fa99d4725ef427a0e8e429c81f.js": "/maksimsavi/gtzp.git/precache-manifest.caca92fa99d4725ef427a0e8e429c81f.js",
-    "service-worker.js": "/maksimsavi/gtzp.git/service-worker.js",
-    "static/css/main.d8f9faba.chunk.css.map": "/maksimsavi/gtzp.git/static/css/main.d8f9faba.chunk.css.map",
-    "static/js/2.1aff8d73.chunk.js.LICENSE.txt": "/maksimsavi/gtzp.git/static/js/2.1aff8d73.chunk.js.LICENSE.txt",
-    "static/media/placeholder.png": "/maksimsavi/gtzp.git/static/media/placeholder.eac4b3db.png",
-    "static/media/zeroLogo.PNG": "/maksimsavi/gtzp.git/static/media/zeroLogo.9ce190a0.PNG"
+    "main.css": "/static/css/main.776d30d9.chunk.css",
+    "main.js": "/static/js/main.e28a669f.chunk.js",
+    "main.js.map": "/static/js/main.e28a669f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba1ba7b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba1ba7b9.js.map",
+    "static/js/2.bc24a3a0.chunk.js": "/static/js/2.bc24a3a0.chunk.js",
+    "static/js/2.bc24a3a0.chunk.js.map": "/static/js/2.bc24a3a0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b072beb693892185345aacba7ea2067e.js": "/precache-manifest.b072beb693892185345aacba7ea2067e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.776d30d9.chunk.css.map": "/static/css/main.776d30d9.chunk.css.map",
+    "static/js/2.bc24a3a0.chunk.js.LICENSE.txt": "/static/js/2.bc24a3a0.chunk.js.LICENSE.txt",
+    "static/media/placeholder.png": "/static/media/placeholder.eac4b3db.png",
+    "static/media/zeroLogo.PNG": "/static/media/zeroLogo.9ce190a0.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.0416a3d5.js",
-    "static/js/2.1aff8d73.chunk.js",
-    "static/css/main.d8f9faba.chunk.css",
-    "static/js/main.a8d0dbe3.chunk.js"
+    "static/js/runtime-main.ba1ba7b9.js",
+    "static/js/2.bc24a3a0.chunk.js",
+    "static/css/main.776d30d9.chunk.css",
+    "static/js/main.e28a669f.chunk.js"
   ]
 }
